@@ -1,0 +1,17 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/jwt-verifier": "0.0.14",
+    "express": "^4.16.4",
+    "pug": "^2.0.3",
+    "swig": "^1.4.2"
+  }
+}
